@@ -12,4 +12,5 @@
     <string name="item_log_out">Cerrar Sesión</string>
     <string name="item_settings">Configuración</string>
     <!-- actions-->
+    <string name="action_settings">Ajustes</string>
 </resources>

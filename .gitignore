@@ -61,4 +61,5 @@ $RECYCLE.BIN/
 #InteliJ and gradle
 .idea/
 .gradle/
+local.properties
 
