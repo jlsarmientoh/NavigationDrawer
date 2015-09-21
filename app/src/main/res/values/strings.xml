@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation Drawer Sample</string>
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_email">yorchsarmiento@gmail.com</string>
+    <string name="navigation_drawer_name">Jorge Sarmiento</string>
+    <!-- Itemas -->
+    <string name="item_home">Inicio</string>
+    <string name="item_products">Productos</string>
+    <string name="item_cart">Carrito</string>
+    <string name="item_orders">Ordenes</string>
+    <string name="item_invoices">Facturas</string>
+    <string name="item_log_out">Cerrar Sesión</string>
+    <string name="item_settings">Configuración</string>
+    <!-- actions-->
+</resources>
