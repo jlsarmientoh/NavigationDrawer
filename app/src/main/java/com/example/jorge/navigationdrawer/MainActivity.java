@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity{
 
     private void setToolbar(){
         Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar);
-        //setSupportActionBar(toolbar);
+        setSupportActionBar(toolbar);
 
         final ActionBar actionBar = getSupportActionBar();
         if(actionBar != null){

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jorge\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-3e999d6cbe79cd9c1b29f19870bc06747566d288.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-1624fbd231c8fbb2aa1402ddd794b621dccc7443.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-119fcefd018c1c1e519f832d6308fa5c4709b9d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-fc155556b9fded6162b418577ea557566ef08c79.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-b41c8be66df292891ca5fe48e3ab3c5b3a34c7ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Jorge\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\pre-dexed\debug\classes-5bc80de9d9bdb0082b0f91f47cca69ecfb124e47.jar" />
+    </item>
+
+</items>
